@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -87,11 +87,19 @@
     },
     {
       "class": "text",
-      "id": "6588230E-DD85-4DB1-A4DA-36565487A84B"
+      "id": "C2EACFC3-B118-4D84-9D8E-174EB8968964"
+    },
+    {
+      "class": "rectangle",
+      "id": "413568D9-38AD-48A0-BE62-515B8C65346A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EC8BA44B-E59D-44CC-A928-AB08EE059EF3"
     },
     {
       "class": "text",
-      "id": "C2EACFC3-B118-4D84-9D8E-174EB8968964"
+      "id": "26AD6AB2-FB07-4BB7-94EF-4E2F8EBEE073"
     }
   ],
   "name": "Apple TV",
