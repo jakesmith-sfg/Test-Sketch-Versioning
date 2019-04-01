@@ -1,8 +1,8 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "group",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0c978f60-54af-11e9-bf5a-c5dd72b2793d",
+  "do_objectID": "404AD2DE-D897-4642-BE6D-3453E3AD1C5F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,23 +15,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 38,
+    "width": 82,
+    "x": 458,
+    "y": 40
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -333,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -40,15 +33,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "3C2B42F8-99D5-41D6-8D62-5FE9DB63C53B"
+      "class": "shapePath",
+      "id": "86A5D3CE-2AE4-47D2-96F6-F23A2CDF41ED"
     },
     {
-      "class": "artboard",
-      "id": "8E7A8460-3133-48C1-9F90-FD611B078185"
+      "class": "shapePath",
+      "id": "81E63412-DC8F-471B-BBB0-7F9A862836B7"
+    },
+    {
+      "class": "group",
+      "id": "6B0A0329-D8FE-43B3-AF0F-7610FAD76BCA"
     }
   ],
-  "name": "Page 1",
+  "name": "MNL Tag - Black",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -56,15 +53,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4326636904761905
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
+    "windingRule": 1
   }
 }
